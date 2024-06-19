@@ -92,3 +92,13 @@ chromium 内核的浏览器需要关闭硬件加速
 **亮度调整范围0-20%**,可以下个**BetterDisplay**或者使用**电脑快捷键**更方便
 
 **睡眠会系统崩溃**
+
+
+
+# 感谢
+
+[NootedRed](https://github.com/ChefKissInc/NootedRed) 项目让AMD APU用上较完美的黑苹果
+
+[Legion-5-Pro-Hackintosh](https://github.com/JamisonMurphy/Legion-5-Pro-Hackintosh)
+
+[Lenovo-Legion-R9000X2021R-Hackintosh](https://github.com/mocehu/Lenovo-Legion-R9000X2021R-Hackintosh)
