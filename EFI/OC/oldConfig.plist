@@ -592,7 +592,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.0 | AirportItlwm.kext</string>
+                    <string>V2.3.0 | AirportItlwm.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1576,7 +1576,7 @@
                     <key>revcpu</key>
                     <integer>1</integer>
                     <key>revcpuname</key>
-                    <string>AMD Ryzen 7 5800H</string>
+                    <string>Apple M1 Max</string>
                 </dict>
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
                 <dict>
@@ -1626,13 +1626,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02048108GU0000AD</string>
+                <string></string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>3841</integer>
                 <key>ROM</key>
-                <data>qFt4/hB9</data>
+                <data>aCLIECAK</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1640,9 +1640,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro16,3</string>
                 <key>SystemSerialNumber</key>
-                <string>C02DRSYLP3XY</string>
+                <string></string>
                 <key>SystemUUID</key>
-                <string>0C17F5B7-B05E-410A-A66B-5F05A96E9E70</string>
+                <string></string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
