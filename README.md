@@ -4,6 +4,8 @@
 
 2021款的R9000K、R9000X应该都能用，只不过可能需要微调，有任何问题Issues中反馈即可
 
+使用前请先看完文档
+
 
 
 ## 软件信息
@@ -57,7 +59,7 @@
 
 ## 注意事项
 
-已更新macOS Ventura ，如需使用macOS Monterrey请把Backup文件夹内macOS Monterrey文件夹里面的所有驱动文件覆盖到EFI/OC/Kexts中，否则连接WIFI则会引起内核崩溃重启
+目前EFI适用于macOS Ventura ，如需使用macOS Monterrey请把Backup文件夹内macOS Monterrey文件夹里面的所有驱动文件覆盖到EFI/OC/Kexts中，否则连接WIFI则会引起内核崩溃重启
 
 **提供的文件中没有序列号等信息，请使用OC编辑器自动生成**
 
